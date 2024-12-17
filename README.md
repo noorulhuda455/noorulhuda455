@@ -1,5 +1,6 @@
 ## Hi there! 👋
-My name in Noor and I am current student at Pace University studying Computer Science. 
+My name in Noor and I am current student at Pace University majoring in Computer Science with a minor in Mathematics. 
+I am intereted in Software Enginerring, Artificial Intelligence, UX/UI, and more. 
 <!--
 **noorulhuda455/noorulhuda455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
