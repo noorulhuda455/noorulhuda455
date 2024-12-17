@@ -3,7 +3,9 @@ My name in Noor and I am current student at Pace University majoring in Computer
 
 ## I am intereted in Software Enginerring, Artificial Intelligence, UX/UI, and more.
 
-<img align="right" alt="Coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcode_2038087&psig=AOvVaw3jGWxM654tYwA8VRm3hnnJ&ust=1734496323791000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND_-bz8rYoDFQAAAAAdAAAAABAK>
+![st,small,507x507-pad,600x600,f8f8f8 u4](https://github.com/user-attachments/assets/4aea61b1-6e50-4d89-b236-35571e1a1fb9)
+
+
 <!--
 **noorulhuda455/noorulhuda455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
