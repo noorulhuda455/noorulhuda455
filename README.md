@@ -3,7 +3,7 @@ My name in Noor and I am current student at Pace University majoring in Computer
 
 ## I am intereted in Software Enginerring, Artificial Intelligence, UX/UI, and more.
 
-<img align="right" alt="Coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer-cat&psig=AOvVaw2FkNmrLtCXr1s7tTAv1cfu&ust=1734496070629000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiXgsb7rYoDFQAAAAAdAAAAABAE>
+<img align="right" alt="Coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcode_2038087&psig=AOvVaw3jGWxM654tYwA8VRm3hnnJ&ust=1734496323791000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND_-bz8rYoDFQAAAAAdAAAAABAK>
 <!--
 **noorulhuda455/noorulhuda455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
