@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there! 👋
+My name in Noor and I am current student at Pace University studying Computer Science. 
 <!--
 **noorulhuda455/noorulhuda455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
