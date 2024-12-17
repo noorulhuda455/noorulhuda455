@@ -1,6 +1,6 @@
 ## Hi there! ✨ 
 
-My name in Noor and I am current student at Pace University majoring in Computer Science with a minor in Mathematics. 📚
+My name in Noor and I am a current student at Pace University majoring in Computer Science with a minor in Mathematics. 📚
 
 I am interested in Software Engineering, Artificial Intelligence, UX/UI, and more. 🌟
 
