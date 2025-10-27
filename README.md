@@ -4,7 +4,7 @@ My name in Noor and I am a current student at Pace University majoring in Comput
 
 I am interested in Software Engineering, Artificial Intelligence, Cybersecurity, UX/UI, and more. 🌟
 
-I am currently working on a Language Learning Tool designed to make the acquisition of new languages intuitive, engaging, and accessible for everyone. 🌍
+I am currently working Welcome Vision, an app designed to make patient feedback and check-ins engaging and accessible for everyone. 👁️
 
 
 
